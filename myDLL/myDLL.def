@@ -1,0 +1,10 @@
+LIBRARY myDLL
+
+VERSION 1.0
+
+EXPORTS
+	hello	@1
+	echo	@2
+	addInt	@3
+	addStr	@4
+
