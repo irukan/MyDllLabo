@@ -7,6 +7,7 @@
 int main()
 {
 
+
 	HMODULE dll = LoadLibrary(L"myDLL");
 	if (NULL == dll)
 		return 1;
