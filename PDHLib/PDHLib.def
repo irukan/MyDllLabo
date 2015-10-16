@@ -1,0 +1,7 @@
+LIBRARY PDHLib
+
+VERSION 1.0
+
+EXPORTS
+	getVirtualBytes	@1
+	
